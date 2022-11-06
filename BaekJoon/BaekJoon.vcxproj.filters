@@ -6,7 +6,34 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Test.cpp">
+    <ClCompile Include="10950.cpp">
+      <Filter>Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="2558.cpp">
+      <Filter>Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="10951.cpp">
+      <Filter>Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="10952.cpp">
+      <Filter>Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="10953.cpp">
+      <Filter>Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="11021.cpp">
+      <Filter>Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="11022.cpp">
+      <Filter>Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="11718.cpp">
+      <Filter>Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="11719.cpp">
+      <Filter>Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="11720.cpp">
       <Filter>Problem</Filter>
     </ClCompile>
   </ItemGroup>

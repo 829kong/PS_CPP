@@ -3,7 +3,10 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World!" << endl;
-	cout << "change test" << endl;
+	int a, b;
+	while (cin >>a>>b)
+	{
+		cout << a + b << endl;
+	}
 	return 0;
 }
