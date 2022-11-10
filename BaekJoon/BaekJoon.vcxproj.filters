@@ -1,40 +1,115 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="Problem">
-      <UniqueIdentifier>{0174ac60-b2e6-474f-b893-f51ace322e95}</UniqueIdentifier>
+    <Filter Include="I/O">
+      <UniqueIdentifier>{ec9c51c6-ce35-4d72-a923-a00483bc1e33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DP">
+      <UniqueIdentifier>{23168a96-18cf-4004-bbf2-4faf7ed2deed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sort">
+      <UniqueIdentifier>{52a8662b-d657-4f3a-9d01-2442d083bd67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stack">
+      <UniqueIdentifier>{1547e3d2-dc8a-401e-8e4b-2983d2d22eb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Queue">
+      <UniqueIdentifier>{607bfb67-3b63-4a00-9b84-e94e5994a35a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Deck">
+      <UniqueIdentifier>{e115b98b-8c40-4b19-8b29-41b76becf1d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="String">
+      <UniqueIdentifier>{3881b6ee-8add-44c1-8339-84254dadced9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Other DataStruct">
+      <UniqueIdentifier>{95e1094d-2bd8-40b7-b5d4-5e1f2e9a645c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Base Math">
+      <UniqueIdentifier>{d89b4569-b011-4d8a-946f-1e4fb8cebf09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graph">
+      <UniqueIdentifier>{8ebc2b02-5a2b-4d2f-9d94-941389b8197c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Searh">
+      <UniqueIdentifier>{a38d728b-c1f6-451b-bd6a-b26ad57d9143}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Div/Conquer">
+      <UniqueIdentifier>{bc9dd58b-4519-4c8c-a7f9-7c1ffe04e15d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Greed">
+      <UniqueIdentifier>{9a836f2f-5656-46f7-bb1a-6c6619068dd9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="10950.cpp">
-      <Filter>Problem</Filter>
+    <ClCompile Include="1924.cpp">
+      <Filter>I/O</Filter>
     </ClCompile>
     <ClCompile Include="2558.cpp">
-      <Filter>Problem</Filter>
+      <Filter>I/O</Filter>
+    </ClCompile>
+    <ClCompile Include="2739.cpp">
+      <Filter>I/O</Filter>
+    </ClCompile>
+    <ClCompile Include="2741.cpp">
+      <Filter>I/O</Filter>
+    </ClCompile>
+    <ClCompile Include="2742.cpp">
+      <Filter>I/O</Filter>
+    </ClCompile>
+    <ClCompile Include="10950.cpp">
+      <Filter>I/O</Filter>
     </ClCompile>
     <ClCompile Include="10951.cpp">
-      <Filter>Problem</Filter>
+      <Filter>I/O</Filter>
     </ClCompile>
     <ClCompile Include="10952.cpp">
-      <Filter>Problem</Filter>
+      <Filter>I/O</Filter>
     </ClCompile>
     <ClCompile Include="10953.cpp">
-      <Filter>Problem</Filter>
+      <Filter>I/O</Filter>
     </ClCompile>
     <ClCompile Include="11021.cpp">
-      <Filter>Problem</Filter>
+      <Filter>I/O</Filter>
     </ClCompile>
     <ClCompile Include="11022.cpp">
-      <Filter>Problem</Filter>
+      <Filter>I/O</Filter>
     </ClCompile>
     <ClCompile Include="11718.cpp">
-      <Filter>Problem</Filter>
+      <Filter>I/O</Filter>
     </ClCompile>
     <ClCompile Include="11719.cpp">
-      <Filter>Problem</Filter>
+      <Filter>I/O</Filter>
     </ClCompile>
     <ClCompile Include="11720.cpp">
-      <Filter>Problem</Filter>
+      <Filter>I/O</Filter>
+    </ClCompile>
+    <ClCompile Include="11721.cpp">
+      <Filter>I/O</Filter>
+    </ClCompile>
+    <ClCompile Include="8393.cpp">
+      <Filter>I/O</Filter>
+    </ClCompile>
+    <ClCompile Include="10818.cpp">
+      <Filter>I/O</Filter>
+    </ClCompile>
+    <ClCompile Include="2438.cpp">
+      <Filter>I/O</Filter>
+    </ClCompile>
+    <ClCompile Include="2439.cpp">
+      <Filter>I/O</Filter>
+    </ClCompile>
+    <ClCompile Include="2440.cpp">
+      <Filter>I/O</Filter>
+    </ClCompile>
+    <ClCompile Include="2441.cpp">
+      <Filter>I/O</Filter>
+    </ClCompile>
+    <ClCompile Include="2442.cpp">
+      <Filter>I/O</Filter>
+    </ClCompile>
+    <ClCompile Include="2445.cpp">
+      <Filter>I/O</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
