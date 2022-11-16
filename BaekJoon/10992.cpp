@@ -15,7 +15,7 @@ int main()
 			break;
 		}
 		for (int j = n; j > i + 1; --j)
-			cout << "-";
+			cout << " ";
 		for (int j = 0; j < 2 * i + 1; ++j)
 		{
 			if (j == 0)
@@ -29,7 +29,7 @@ int main()
 				break;
 			}
 			if(i != 0)
-				cout << "-";
+				cout << " ";
 
 		}
 		

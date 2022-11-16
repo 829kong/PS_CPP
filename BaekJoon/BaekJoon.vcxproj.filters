@@ -123,5 +123,11 @@
     <ClCompile Include="10992.cpp">
       <Filter>I/O</Filter>
     </ClCompile>
+    <ClCompile Include="1463.cpp">
+      <Filter>DP</Filter>
+    </ClCompile>
+    <ClCompile Include="11726.cpp">
+      <Filter>DP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
