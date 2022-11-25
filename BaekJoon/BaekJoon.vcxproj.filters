@@ -138,5 +138,14 @@
     <ClCompile Include="10844.cpp">
       <Filter>DP</Filter>
     </ClCompile>
+    <ClCompile Include="11057.cpp">
+      <Filter>DP</Filter>
+    </ClCompile>
+    <ClCompile Include="2193.cpp">
+      <Filter>DP</Filter>
+    </ClCompile>
+    <ClCompile Include="9465.cpp">
+      <Filter>DP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
